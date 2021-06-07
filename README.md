@@ -1,6 +1,8 @@
-# Installation
+# NCDAI Zsh Theme
 
-## Oh My Zsh
+## Installation
+
+### Oh My Zsh
 
 1. Clone this repository into $ZSH_CUSTOM/plugins (by default ~/.oh-my-zsh/custom/plugins)
 
