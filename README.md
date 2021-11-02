@@ -4,13 +4,13 @@
 
 ### Oh My Zsh
 
-1. Clone this repository into $ZSH_CUSTOM/plugins (by default ~/.oh-my-zsh/custom/plugins)
+1. Clone this repository into $ZSH_CUSTOM/themes (by default ~/.oh-my-zsh/custom/themes)
 
 ```bash
 git clone https://github.com/ncdai3651408/ncdai.zsh-theme.git ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/themes/ncdai.zsh-theme
 ```
 
-2. Add the plugin to the list of plugins for Oh My Zsh to load (inside ~/.zshrc)
+2. Activate the theme in ~/.zshrc
 
 ```bash
 ZSH_THEME="ncdai.zsh-theme/ncdai"
