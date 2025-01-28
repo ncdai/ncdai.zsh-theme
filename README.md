@@ -1,4 +1,4 @@
-# NCDAI Zsh Theme
+# NCDAi Zsh Theme
 
 ## Installation
 
