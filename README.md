@@ -7,7 +7,7 @@
 1. Clone this repository into $ZSH_CUSTOM/themes (by default ~/.oh-my-zsh/custom/themes)
 
 ```bash
-git clone https://github.com/ncdai3651408/ncdai.zsh-theme.git ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/themes/ncdai.zsh-theme
+git clone https://github.com/ncdai/ncdai.zsh-theme.git ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/themes/ncdai.zsh-theme
 ```
 
 2. Activate the theme in ~/.zshrc
